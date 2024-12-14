@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: co.paystack.flutterpaystack
+        package: com.example.paystack
         pluginClass:  FlutterPaystackPlugin
       ios:
         pluginClass:  FlutterPaystackPlugin
